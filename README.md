@@ -120,5 +120,5 @@ make clean        # 清理构建产物
 ## 参考
 
 - [CLAUDE.md](./CLAUDE.md) — AI 辅助开发的完整上下文
-- [插件前端样式规范](../airgate-sdk/PLUGIN_STYLE_GUIDE.md)
-- [airgate-openai](../airgate-openai/) — 完整的生产插件参考
+- [插件前端样式规范](https://github.com/DouDOU-start/airgate-sdk/blob/master/PLUGIN_STYLE_GUIDE.md)
+- [airgate-openai](https://github.com/DouDOU-start/airgate-openai) — 完整的生产插件参考
