@@ -1,0 +1,1 @@
+# airgate-plugin-template
