@@ -1,0 +1,12 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .agw-form-shell {
+    @apply agw-flex agw-flex-col agw-gap-4 agw-text-sm agw-text-text agw-font-sans agw-antialiased;
+  }
+
+  .agw-form-shell > * {
+    min-width: 0;
+  }
+}
